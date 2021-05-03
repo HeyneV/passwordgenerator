@@ -2,6 +2,11 @@
 
 https://heynev.github.io/passwordgenerator/
 
+![image](https://user-images.githubusercontent.com/81537925/116835163-49b1e380-ab8f-11eb-8bbc-36c575a647bf.png)
+
+![image](https://user-images.githubusercontent.com/81537925/116835179-65b58500-ab8f-11eb-809a-82314053afdd.png)
+
+
 GIVEN I need a new, secure password
 
 WHEN I click the button to generate a password
